@@ -9,8 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thaksharagr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thaksharagr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thakshara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thakshara" height="30" width="40" /></a>
+<a href="https://twitter.com/thaksharagr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thaksharagr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thakshara" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thakshara" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/thakshara" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thakshara" height="30" width="40" /></a>
+  <a href="https://www.fiverr.com/share/Pd2VAE" target="_blank"><img align="center" src="https://img.icons8.com/color/48/undefined/fiverr.png" alt="thakshara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
