@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/thaksharagr" target="blank"><img src="https://img.shields.io/twitter/follow/thaksharagr?logo=twitter&style=for-the-badge" alt="thaksharagr" /></a> </p>
 
-- 🔭 I’m currently working on **<a href="https://www.fiverr.com/share/Pd2VAE">Fiverr</a> Freelance**
+- 🔭 I’m currently working on **<a href="https://www.fiverr.com/share/Pd2VAE">Fiverr Freelance</a>**
 
 - 🌱 I’m currently learning **Django**
 
