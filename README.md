@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **<a href="https://www.fiverr.com/share/Pd2VAE">Fiverr Freelance</a>**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently following **Computer Science - Eastern Univercity Of Sri Lanka**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
