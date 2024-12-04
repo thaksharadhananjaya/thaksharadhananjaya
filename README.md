@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thakshara Dhananjaya</h1>
-<h3 align="center">FULL STACK DEVELOPER <br> Spring Boot | Next.JS | FLUTTER | PostgreSQL | MONGODB</h3>
+<h3 align="center">FULL STACK DEVELOPER <br> Spring Boot | Node.JS | Next.JS </h3>
 <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thaksharadhananjaya" alt="thaksharadhananjaya" /></a> </p>
