@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thakshara Dhananjaya</h1>
-<h3 align="center">FULL STACK DEVELOPER <br> Spring Boot | Node.js | Next.js</h3>
+<h3 align="center">FULL STACK DEVELOPER <br> .Net | Node.js | Next.js</h3>
 <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -17,7 +17,6 @@
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://alex-bezverkhniy.github.io/images/spring-boot/spring-boot-logo.png" alt="spring boot" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://elevate.ba/wp-content/uploads/2023/09/Group-43858.png" alt="aws" width="40" height="40"/> </a>
